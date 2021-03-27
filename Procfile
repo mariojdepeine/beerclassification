@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=Truebeerclassification.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True beermodel.ipynb
